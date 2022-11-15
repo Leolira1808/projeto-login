@@ -32,6 +32,10 @@ Celulas: de 600px até 768px
     div#formulario>p {
         font-size: 1.2em;
     }
+
+    .campo label {
+        font-size: 1em;
+    }
 }
 
 @media screen and (min-width: 992px) {
@@ -61,5 +65,9 @@ Celulas: de 600px até 768px
 
     div#formulario>p {
         font-size: 1.4em;
+    }
+
+    .campo label {
+        font-size: 1em;
     }
 }
